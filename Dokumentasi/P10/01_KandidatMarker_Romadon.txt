@@ -1,0 +1,33 @@
+# DOKUMENTASI KANDIDAT MARKER
+**Praktikum Augmented Reality – Pertemuan 10**
+
+Nama: M. Atas Romadon  
+Project: AR_2924033_M. Atas Romadon_FinalProject  
+Marker Final: **helm**
+
+## 1. Perbandingan Kandidat Marker
+
+| Aspek      | caferacer                                            | helm                                                                  |
+|------------|----------------------------------------------------- |-----------------------------------------------------------------------|
+| Kontras    | Tinggi, objek dan latar memiliki perbedaan visual.   | Tinggi, bentuk helm tampak jelas terhadap latar.                      |
+| Detail     | Detail cukup banyak, tetapi gambar terlihat ramai    | Detail bentuk, ventilasi, dan tekstur helm terlihat jelas.            |
+               karena terdapat beberapa motor dan objek.          
+| Keunikan   | Cukup unik, tetapi terdiri dari beberapa objek motor | Tinggi, helm menjadi objek utama yang mudah dibedakan.                |
+               dalam satu gambar.                                  
+| Pola 
+  berulang   | Banyak pola berulang, terutama roda dan bentuk motor.| Ada pola ventilasi, tetapi tidak sebanyak pola pada gambar caferacer. |
+| Ketajaman  | Beberapa bagian gambar terlihat kurang tajam.        | Bentuk dan detail utama helm terlihat lebih jelas.                    |
+
+## 2. Marker yang Dipilih
+
+Marker final yang dipilih adalah **helm**.
+
+Marker helm dipilih karena memiliki objek utama yang jelas, detail yang mudah dikenali, kontras yang baik, dan pola visual yang tidak terlalu berulang. Dibandingkan caferacer, gambar helm memiliki tampilan yang lebih sederhana sehingga lebih sesuai digunakan sebagai marker pada project Augmented Reality ini.
+
+## 3. Pengaturan Marker pada Unity
+
+- Nama Reference Image: helm
+- Resolusi gambar: 736 × 736 piksel
+- Physical Size: X = 0.118 m dan Y = 0.118 m
+
+**Catatan:** Physical Size diisi berdasarkan ukuran gambar yang digunakan saat ditampilkan pada layar laptop, yaitu 11,8 cm × 11,8 cm. Ukuran tampilan tersebut perlu dipertahankan saat pengujian agar sesuai dengan ukuran yang dimasukkan ke Reference Image Library.
