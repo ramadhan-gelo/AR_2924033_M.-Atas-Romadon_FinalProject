@@ -21,16 +21,16 @@ MonoBehaviour:
   - heading: Welcome to the Universal Render Pipeline
     text: This template includes the settings and assets you need to start creating with the Universal Render Pipeline.
     linkText: 
-    url:
+    url: 
   - heading: URP Documentation
-    text:
+    text: 
     linkText: Read more about URP
     url: https://docs.unity3d.com/6000.6/Documentation/Manual/urp/urp-introduction.html
   - heading: Forums
-    text:
+    text: 
     linkText: Get answers and support
     url: https://discussions.unity.com/tags/c/graphics/render-pipelines/136/none/universal-render-pipeline
   - heading: Report bugs
-    text:
+    text: 
     linkText: Submit a report
     url: https://unity.com/releases/editor/qa#bug-reporting
