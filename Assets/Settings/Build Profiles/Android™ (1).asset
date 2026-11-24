@@ -22,9 +22,12 @@ MonoBehaviour:
   m_AdditionalPlatformBuildSettings: []
   m_OverrideGlobalSceneList: 1
   m_Scenes:
-  - m_enabled: 1
+  - m_enabled: 0
     m_path: Assets/Scenes/P11_ObjectOnMarker.unity
     m_guid: e5040455b0143964e91d2ec0ada5c44f
+  - m_enabled: 1
+    m_path: Assets/Scenes/P12_ARInteraction.unity
+    m_guid: ff70fa4c2c4dc874cbf4d19658aadb83
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
